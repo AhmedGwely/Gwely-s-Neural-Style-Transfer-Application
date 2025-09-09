@@ -28,28 +28,26 @@ NST blends the **content** of one image with the **style** of another by optimiz
 
 ---
 
-## 🖼️ Example
-
-### Content Image
-<p align="center">
-  <img src="content.jpg" alt="Content Image" width="400"/>
-</p>
-
 
 <p align="center">
   <img src="Screenshot 2025-09-08 212832.png" alt="Style Image" width="400"/>
 </p>
 
----
+
+
+
+## 🖼️ Example
 
 ### Style Image
 
-### Stylized Output
 <p align="center">
   <img src="pngtree-a-majestic-blue-whale-glides-through-starry-cosmic-backdrop-showcasing-its-image_17223334.jpg" alt="Stylized Output" width="500"/>
 </p>
 
 ---
+
+### Stylized Output
+
 
 <p align="center">
   <img src="image (6).webp" alt="Stylized Output" width="500"/>
@@ -72,4 +70,8 @@ NST blends the **content** of one image with the **style** of another by optimiz
    cd neural-style-transfer
    ```
 
+# 👨‍💻 Author
 
+- **Ahmed Gwely**  
+- Passionate about Computer Vision, Embedded Systems, and AI-driven IoT.  
+- 🌐 [LinkedIn Profile](https://www.linkedin.com/in/ahmed-gwely-2589611b0/)  
